@@ -1,50 +1,67 @@
 # Hi 👋 I'm Orel Butbul
 
-## 🚀 AI Automation Specialist & Business Intelligence Analyst
+## 🚀 AI Automation Specialist | Business Intelligence Analyst | Software Engineer
 
-I design intelligent automation systems and data-driven solutions that help businesses operate smarter, faster, and more efficiently.
+I build intelligent automation systems, scalable applications, and data-driven solutions that help businesses operate smarter, faster, and more efficiently.
 
-Recent TripleTen graduate with hands-on experience building production-style systems that integrate AI, APIs, workflow automation, and advanced analytics.
+Recent TripleTen graduate with hands-on experience developing production-style systems that integrate AI, APIs, workflow automation, backend architecture, and advanced analytics.
 
-I focus on solving real business problems — not just writing code.
+I focus on building systems that solve real business problems — not just writing code.
 
 ---
 
-# ⭐ Featured Project
+# ⭐ Featured Analytics Project
 
-## 🚨 Date Projects — Advanced SQL Data Analysis
+## 📊 Date Projects — Advanced SQL Data Analysis
 
 👉 **View Project:**  
 https://github.com/orbu13/Date-Projects
 
-A comprehensive SQL analytics project focused on extracting business insights from relational datasets using advanced querying techniques.
+A comprehensive SQL analytics project focused on extracting actionable business insights from relational datasets using advanced querying techniques.
 
 ### ✔️ What This Demonstrates:
 - Strong SQL fundamentals  
 - Complex joins and aggregations  
-- Business-driven analysis  
+- Business-focused data analysis  
 - Data storytelling mindset  
-- Analytical thinking  
+- Query optimization  
 
 ### 🧠 Skills Used:
-SQL • PostgreSQL • Data Analysis • Query Optimization • Relational Databases
-
-📊 **Recruiter Note:**  
-This project reflects my ability to translate raw structured data into meaningful insights that support business decision-making.
+SQL • PostgreSQL • Data Analysis • Relational Databases • Query Optimization
 
 ---
 
-## 🔥 What I Do
+# 💻 Software Engineering Portfolio
 
-✔️ Build AI-powered workflow automations  
-✔️ Transform raw data into actionable insights  
-✔️ Design scalable BI dashboards  
-✔️ Integrate LLMs into operational systems  
-✔️ Eliminate manual processes  
+👉 **View Portfolio:**  
+https://github.com/orbu13/Best-Beginner-Software-Engineering-Projects
+
+A curated collection of full-stack and API-driven applications demonstrating structured system architecture, frontend-backend separation, RESTful communication, and real-time data handling.
+
+### ✔️ Core Engineering Capabilities:
+- Full-stack application architecture  
+- REST API development & consumption  
+- Client-server communication  
+- Asynchronous JavaScript workflows  
+- Data-driven UI rendering  
+- Scalable project structure  
+
+### 🧠 Technologies:
+JavaScript • Node.js • Express • REST APIs • HTML • CSS • JSON • Git • GitHub
 
 ---
 
-## 🧠 Core Expertise
+# 🔥 What I Do
+
+✔️ Design AI-powered workflow automation systems  
+✔️ Transform raw data into actionable business insights  
+✔️ Build scalable full-stack applications  
+✔️ Integrate LLMs into operational processes  
+✔️ Eliminate repetitive manual workflows  
+
+---
+
+# 🧠 Core Expertise
 
 ### AI & Automation
 Zapier | Make | OpenAI | Gemini | Prompt Engineering | APIs | Webhooks | RPA | Google Cloud | OAuth  
@@ -52,32 +69,32 @@ Zapier | Make | OpenAI | Gemini | Prompt Engineering | APIs | Webhooks | RPA | G
 ### Business Intelligence
 SQL | PostgreSQL | Tableau | Data Modeling | Dashboarding | ETL | KPI Design  
 
-### Technical Tools
-Python | JavaScript | Google Sheets Automation | REST APIs | JSON | Git | GitHub  
+### Software Engineering
+JavaScript | Node.js | Express | REST APIs | System Architecture | Asynchronous Programming | Git  
 
 ---
 
-## 📈 Currently Focused On
+# 📈 Currently Focused On
 
 - Advanced AI workflow architecture  
 - Production-level automation systems  
-- Scalable analytics solutions  
-- High-impact business intelligence  
+- Scalable analytics platforms  
+- Building real-world, deployable applications  
 
 ---
 
-## 🎯 Career Objective
+# 🎯 Career Objective
 
-Seeking an **AI Automation Engineer, Automation Specialist, or Business Intelligence Analyst** role where I can build systems that create measurable business value.
+Seeking an **AI Automation Engineer, Automation Specialist, Business Intelligence Analyst, or Full-Stack Developer** role where I can build systems that create measurable business value.
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 💼 Open to full-time opportunities  
 
 **LinkedIn:**  
-(Add your link — DO NOT skip this)
+https://www.linkedin.com/in/orelbutbul/
 
 ---
 

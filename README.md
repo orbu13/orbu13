@@ -1,102 +1,70 @@
-# Hi 👋 I'm Orel Butbul
+# Orel Butbul
 
-## 🚀 AI Automation Specialist | Business Intelligence Analyst | Software Engineer
+Business Intelligence Analyst  
+Technical Background in AI Automation & Software Engineering
 
-I build intelligent automation systems, scalable applications, and data-driven solutions that help businesses operate smarter, faster, and more efficiently.
+I specialize in transforming complex datasets into structured, decision-ready insights that support strategic business decisions.
 
-Recent TripleTen graduate with hands-on experience developing production-style systems that integrate AI, APIs, workflow automation, backend architecture, and advanced analytics.
-
-I focus on building systems that solve real business problems — not just writing code.
-
----
-
-# ⭐ Featured Analytics Project
-
-## 📊 Date Projects — Advanced SQL Data Analysis
-
-👉 **View Project:**  
-https://github.com/orbu13/Date-Projects
-
-A comprehensive SQL analytics project focused on extracting actionable business insights from relational datasets using advanced querying techniques.
-
-### ✔️ What This Demonstrates:
-- Strong SQL fundamentals  
-- Complex joins and aggregations  
-- Business-focused data analysis  
-- Data storytelling mindset  
-- Query optimization  
-
-### 🧠 Skills Used:
-SQL • PostgreSQL • Data Analysis • Relational Databases • Query Optimization
+My experience spans SQL analytics, KPI modeling, dashboard architecture, and automation systems — combining analytical rigor with technical execution.
 
 ---
 
-# 💻 Software Engineering Portfolio
+## Business Intelligence Portfolio
 
-👉 **View Portfolio:**  
-https://github.com/orbu13/Best-Beginner-Software-Engineering-Projects
+- [View Business Intelligence Portfolio](https://github.com/orbu13/Date-Projects)
 
-A curated collection of full-stack and API-driven applications demonstrating structured system architecture, frontend-backend separation, RESTful communication, and real-time data handling.
+Selected projects focused on investment analysis, retail profitability, and cohort-based retention modeling.
 
-### ✔️ Core Engineering Capabilities:
-- Full-stack application architecture  
-- REST API development & consumption  
-- Client-server communication  
-- Asynchronous JavaScript workflows  
-- Data-driven UI rendering  
-- Scalable project structure  
+Core capabilities:
+- Advanced SQL analysis and relational data modeling  
+- KPI development and performance benchmarking  
+- Dashboard architecture (Tableau)  
+- Funnel and cohort retention analysis  
+- Executive-level reporting  
 
-### 🧠 Technologies:
-JavaScript • Node.js • Express • REST APIs • HTML • CSS • JSON • Git • GitHub
+Technologies:
+SQL • PostgreSQL • Tableau • Google Sheets • Data Modeling  
 
 ---
 
-# 🔥 What I Do
+## AI Automation Engineering Portfolio
 
-✔️ Design AI-powered workflow automation systems  
-✔️ Transform raw data into actionable business insights  
-✔️ Build scalable full-stack applications  
-✔️ Integrate LLMs into operational processes  
-✔️ Eliminate repetitive manual workflows  
+- [View AI Automation Portfolio](https://github.com/orbu13/AI-Automation-Engineering-Portfolio)
 
----
+Automation systems integrating APIs, large language models, and workflow orchestration to improve operational efficiency and eliminate manual processes.
 
-# 🧠 Core Expertise
+Focus areas:
+- Workflow automation architecture  
+- API integration and orchestration  
+- LLM prompt engineering  
+- Conditional logic design  
+- Structured data pipelines  
 
-### AI & Automation
-Zapier | Make | OpenAI | Gemini | Prompt Engineering | APIs | Webhooks | RPA | Google Cloud | OAuth  
-
-### Business Intelligence
-SQL | PostgreSQL | Tableau | Data Modeling | Dashboarding | ETL | KPI Design  
-
-### Software Engineering
-JavaScript | Node.js | Express | REST APIs | System Architecture | Asynchronous Programming | Git  
+Technologies:
+Zapier • Make • OpenAI • Gemini • APIs • Webhooks • Google Cloud  
 
 ---
 
-# 📈 Currently Focused On
+## Software Engineering Portfolio
 
-- Advanced AI workflow architecture  
-- Production-level automation systems  
-- Scalable analytics platforms  
-- Building real-world, deployable applications  
+- [View Software Engineering Portfolio](https://github.com/orbu13/Best-Beginner-Software-Engineering-Projects)
 
----
+Full-stack and API-driven applications demonstrating client-server architecture, backend development, and structured frontend integration.
 
-# 🎯 Career Objective
-
-Seeking an **AI Automation Engineer, Automation Specialist, Business Intelligence Analyst, or Full-Stack Developer** role where I can build systems that create measurable business value.
+Technologies:
+JavaScript • Node.js • Express • REST APIs • System Architecture  
 
 ---
 
-# 🤝 Let's Connect
+## Core Competencies
 
-💼 Open to full-time opportunities  
-
-**LinkedIn:**  
-https://www.linkedin.com/in/orelbutbul/
+- Business Intelligence and performance analytics  
+- Data modeling and structured analysis  
+- Automation-enhanced decision systems  
+- API-driven system integration  
+- Technical problem solving  
 
 ---
 
-## ⚡ Fun Fact
-If a task is repetitive — I will automate it.
+LinkedIn:  
+- [View LinkedIn Profile](https://www.linkedin.com/in/orelbutbul/)

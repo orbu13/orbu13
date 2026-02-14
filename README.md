@@ -27,7 +27,7 @@ SQL • PostgreSQL • Tableau • Google Sheets • Data Modeling
 
 ---
 
-## AI Automation Engineering Portfolio
+## AI Automation Portfolio
 
 - [View AI Automation Portfolio](https://github.com/orbu13/AI-Automation-Engineering-Portfolio)
 
